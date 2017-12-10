@@ -60,11 +60,20 @@
 
 
 ## [Designworks Ink Medium Bonded Leather Notebook-Charcoal](https://vanness1938.com/products/designworks-ink-medium-bonded-leather-notebook-charcoal)
-- 180 lined pages with date & subject lines | 2 ribbon markers | 
+- 180 lined pages with date & subject lines | 2 ribbon markers
 - 6" X 8"
 - $16.00
 
 <img src="https://i.imgur.com/3JyaD9H.jpg" width="300"/>
+
+
+
+## [DesignWorks Cloth Cover Journal- Burgundy "Acute Notebook"](https://vanness1938.com/products/designworks-cloth-cover-journal-burgundy-acute-notebook)
+- Cloth cover | 160 Lined pages | Ribbon marker
+- 5.125" x 7.25"
+- $12.00
+
+<img src="https://i.imgur.com/rb3L09E.jpg" width="300"/>
 
 
 
