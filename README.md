@@ -12,6 +12,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [MUJI PAPER NOTEBOOK A5](#muji-paper-notebook-a5)
 - [NUUNA NOTEBOOKS](#nuuna-notebooks)
   - [NUUNA: VOYAGER](#nuuna-voyager)
   - [NUUNA: HEAVEN](#nuuna-heaven)
