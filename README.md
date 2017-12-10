@@ -26,14 +26,35 @@
 
 ### Rhodia
 
-#### [Soft Cover Rhodiarama](https://vanness1938.com/products/rhodia-soft-cover-rhodiarama-a6-black-notebook)
+#### Soft Cover Rhodiarama
 
 - Soft cover | Black | Lined or Dot | 
 - 90 gram
 - A6: 3.5" x 5.5"
 - $14.95
+- [Different colors](https://vanness1938.com/search?type=product&q=Rhodia+Soft+Cover+Rhodiarama+A6)
+- [Also in A5 ($19.95)](https://vanness1938.com/search?type=product&q=Rhodia+Soft+Cover+Rhodiarama+A5)
 
-<img src="https://i.imgur.com/EbcYJH9.jpg" width="250"/>
+<table align="center">
+    <tr>
+        <td>
+            <img src="https://i.imgur.com/EbcYJH9.jpg" width="250"/>
+        </td>
+        <td>
+            <img src="https://i.imgur.com/BO1jzyD.jpg" width="250"/>
+        </td>
+        <td>
+            <img src="https://i.imgur.com/uG7p2Ox.jpg" width="250"/>
+        </td>
+    </tr>
+    <tr align="center">
+        <td align="center"><a href="https://vanness1938.com/products/rhodia-soft-cover-rhodiarama-a6-black-notebook">Black</a></td>
+        <td align="center"><a href="https://vanness1938.com/products/rhodia-soft-cover-rhodiarama-a6-chocolate-notebook">Chocolate</a></td> 
+        <td align="center"><a href="https://vanness1938.com/products/rhodia-soft-cover-rhodiarama-a6-poppy-red-notebook">Poppy Red</a></td> 
+    </tr>
+</table>
+
+
 
 
 
