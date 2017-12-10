@@ -30,7 +30,28 @@
 -------------------------------------------------------------------
 
 
-# NUUNA: Graphic Traveller LT Nightflight Over Cities
+# [NUUNA: Graphic Analog](https://www.nuuna.com/notebook-graphic-l-analog)
+<table>
+    <tr>
+        <td>
+            <img src="https://www.nuuna.com/media/image/product/204/md/51999_notebook-graphic-l-analog.jpg" width="350" />
+            <img src="https://www.nuuna.com/media/image/product/204/md/51999_notebook-graphic-l-analog~2.jpg" width="350" />
+        </td>
+        <td valign="top" width="150">
+            <ul>
+                <li>flexcover notebook</li>
+                <li>cover: Smooth Bonded Leather</li>
+                <li>120g</li>
+                <li>256 pages</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<a href="#table-of-contents">⬆️ Back to top</a>
+
+
+
+# NUUNA: Graphic Traveller Nightflight Over Cities
 <table>
     <tr align="center">
         <td><img src="https://www.nuuna.com/media/image/product/406/md/53702_notebook-graphic-traveller-lt-nightflight-over-paris-copper.jpg" width="300" /></td>
