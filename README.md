@@ -33,8 +33,7 @@
 - A6: 3.5" x 5.5"
 - $14.95
 
-<img src="
-https://cdn.shopify.com/s/files/1/0648/5185/products/Rhodiarama_a6_Black_1024x1024.jpg?v=1501083377" width="250"/>
+<img src="https://i.imgur.com/EbcYJH9.jpg" width="250"/>
 
 
 
