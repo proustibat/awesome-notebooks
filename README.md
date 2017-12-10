@@ -2,6 +2,19 @@
 
 ------
 
+
+# [Stamford: The Woven Cloth Notebook & Diary](https://www.stamfordnotebooks.co.uk/product/woven-cloth-notebook/)
+- Customizable: 
+    - different sizes
+    - cloth colour
+    - page style: ruled, dot grid, plain, diary, artist's sketch
+    - embossing: from 4 to 30 characters, different colours, different positions
+- £16.50 – £25.50 + options
+
+<img src="https://i0.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2014/10/Linen.jpg?zoom=2&fit=581%2C581&ssl=1" width="350" />
+
+
+
 # [Stamford: Stitched Leather Notebooks and Diaries](https://www.stamfordnotebooks.co.uk/product/stitched-leather-notebooks/)
 - Customizable: 
     - different sizes
