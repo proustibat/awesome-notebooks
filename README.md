@@ -59,9 +59,12 @@
 </table>
 
 
+#### [Designworks Ink Medium Bonded Leather Notebook-Charcoal](https://vanness1938.com/products/designworks-ink-medium-bonded-leather-notebook-charcoal)
+- 180 lined pages with date & subject lines | 2 ribbon markers | 
+- 6" X 8"
+- $16.00
 
-
-
+<img src="https://i.imgur.com/3JyaD9H.jpg" width="300"/>
 
 
 
