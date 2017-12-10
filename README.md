@@ -12,7 +12,17 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [MUJI PAPER NOTEBOOK A5](#muji-paper-notebook-a5)
+- [Waverley Scotland Tartan Cloth Commonplace Notebooks](#waverley-scotland-tartan-cloth-commonplace-notebooks)
+- [Stamford: The Burghley Journal & Diary](#stamford-the-burghley-journal--diary)
+- [Stamford: The Woven Cloth Notebook & Diary](#stamford-the-woven-cloth-notebook--diary)
+- [Stamford: Soft Touch Stitched Notebooks and Diaries](#stamford-soft-touch-stitched-notebooks-and-diaries)
+- [Stamford: Stitched Leather Notebooks and Diaries](#stamford-stitched-leather-notebooks-and-diaries)
+- [Papier Notebooks](#papier-notebooks)
+- [Vaness Incorporated](#vaness-incorporated)
+  - [Rhodia Soft Cover Rhodiarama A6](#rhodia-soft-cover-rhodiarama-a6)
+  - [Designworks Ink Medium Bonded Leather Notebook-Charcoal](#designworks-ink-medium-bonded-leather-notebook-charcoal)
+  - [DesignWorks Cloth Cover Journal- Burgundy "Acute Notebook"](#designworks-cloth-cover-journal--burgundy-acute-notebook)
+  - [DesignWorks Hard Cover "Le Petit" Journal](#designworks-hard-cover-le-petit-journal)
 - [NUUNA NOTEBOOKS](#nuuna-notebooks)
   - [NUUNA: VOYAGER](#nuuna-voyager)
   - [NUUNA: HEAVEN](#nuuna-heaven)
@@ -21,17 +31,7 @@
   - [NUUNA: GRAPHIC MILKY WAY](#nuuna-graphic-milky-way)
   - [NUUNA: GRAPHIC ANALOG](#nuuna-graphic-analog)
   - [NUUNA: GRAPHIC TRAVELLER NIGHTFLIGHT OVER](#nuuna-graphic-traveller-nightflight-over)
-- [Stamford: The Burghley Journal & Diary](#stamford-the-burghley-journal--diary)
-- [Stamford: The Woven Cloth Notebook & Diary](#stamford-the-woven-cloth-notebook--diary)
-- [Stamford: Soft Touch Stitched Notebooks and Diaries](#stamford-soft-touch-stitched-notebooks-and-diaries)
-- [Stamford: Stitched Leather Notebooks and Diaries](#stamford-stitched-leather-notebooks-and-diaries)
-- [Waverley Scotland Tartan Cloth Commonplace Notebooks](#waverley-scotland-tartan-cloth-commonplace-notebooks)
-- [Papier Notebooks](#papier-notebooks)
-- [Vaness Incorporated](#vaness-incorporated)
-  - [Rhodia Soft Cover Rhodiarama A6](#rhodia-soft-cover-rhodiarama-a6)
-  - [Designworks Ink Medium Bonded Leather Notebook-Charcoal](#designworks-ink-medium-bonded-leather-notebook-charcoal)
-  - [DesignWorks Cloth Cover Journal- Burgundy "Acute Notebook"](#designworks-cloth-cover-journal--burgundy-acute-notebook)
-  - [DesignWorks Hard Cover "Le Petit" Journal](#designworks-hard-cover-le-petit-journal)
+- [MUJI PAPER NOTEBOOK A5](#muji-paper-notebook-a5)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
