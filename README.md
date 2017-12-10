@@ -159,15 +159,43 @@
 
 
 # [Papier Notebooks](https://www.papier.com/stationery/notebooks/)
-
-- Softback cover (324gsm) | Lined
-- Customizable cover: title
-- 37 leaves (74 sides) | 118gsm
-- A5 (148mm x 210mm)
-- £12.99
-
-<img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/007/548/original/data?1474458339" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/899/original/data?1479407078" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/006/690/original/data?1461691547" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/027/328/original/data?1503408465" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/952/original/data?1479468916" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/010/153/original/data?1472569973" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/010/150/original/data?1470842475" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/639/original/data?1478802026" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/014/470/original/data?1480433135" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/362/original/data?1478259311" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/016/732/original/data?1503481569" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/031/829/original/data?1511946075" width="140"/>
-
+<table>
+    <tr>
+        <td>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/007/548/original/data?1474458339" width="115"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/899/original/data?1479407078" width="115"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/006/690/original/data?1461691547" width="115"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/027/328/original/data?1503408465" width="115"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/362/original/data?1478259311" width="115"/>
+        </td>
+        <td rowspan="3">
+            <ul>
+                <li>Softback cover (324gsm)</li>
+                <li>Lined</li>
+                <li>Customizable cover: title</li>
+                <li>37 leaves (74 sides)</li>
+                <li>118gsm</li>
+                <li>A5 (148mm x 210mm)</li>
+                <li>£12.99</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/952/original/data?1479468916" width="115"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/010/153/original/data?1472569973" width="115"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/010/150/original/data?1470842475" width="115"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/639/original/data?1478802026" width="115"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/014/470/original/data?1480433135" width="115"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/016/732/original/data?1503481569" width="120"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/031/829/original/data?1511946075" width="120"/>
+        </td>
+    </tr>
+</table>
 <a href="#table-of-contents">⬆️ Back to top</a>
 
 
