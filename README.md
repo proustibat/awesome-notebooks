@@ -148,12 +148,24 @@
 </table>
 
 
-## [Designworks Ink Medium Bonded Leather Notebook-Charcoal](https://vanness1938.com/products/designworks-ink-medium-bonded-leather-notebook-charcoal)
-- 180 lined pages with date & subject lines | 2 ribbon markers
-- 6" X 8"
-- $16.00
 
-<img src="https://i.imgur.com/3JyaD9H.jpg" width="300"/>
+## [Designworks Ink Medium Bonded Leather Notebook-Charcoal](https://vanness1938.com/products/designworks-ink-medium-bonded-leather-notebook-charcoal)
+<table>
+    <tr>
+        <td>
+            <img src="https://i.imgur.com/3JyaD9H.jpg" width="300"/>
+        </td>
+        <td valign="top">
+            <br/>
+            <ul>
+                <li>180 lined pages with date & subject lines</li>
+                <li>2 ribbon markers</li>
+                <li>6" X 8"</li>
+                <li>$16.00</li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 
 
@@ -179,7 +191,6 @@
 
 
 ## [DesignWorks Hard Cover "Le Petit" Journal](https://vanness1938.com/products/designworks-hard-cover-la-petit-journal-black)
-
 <table>
     <tr>
         <td>
