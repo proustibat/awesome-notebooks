@@ -3,24 +3,27 @@
 ------
 
 # [Stamford: The Burghley Journal & Diary](https://www.stamfordnotebooks.co.uk/product/burghley_journal/)
-- Customizable: 
-    - different sizes
-    - colour
-    - page style: ruled, dot grid, plain, diary, artist's sketch
-    - embossing: from 4 to 30 characters, different colours, different positions
-- £57.20 – £71.50 + options
-
-<table cellspacing="0" cellpadding="0">
-    <tr>
+<table>
+    <tr valign="top">
         <td>
-            <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2016/02/dark_brown.jpg?zoom=2&fit=600%2C598&ssl=1" width="450" />
+            <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2016/02/dark_brown.jpg?zoom=2&fit=600%2C598&ssl=1" width="250" />
+            <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2016/02/stamford.jpg?fit=900%2C600&ssl=1" width="250" />
         </td>
         <td>
-            <img src="https://i1.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2016/02/New-Burghley.jpg?zoom=2&fit=600%2C599&ssl=1" width="450" /> 
+            <img src="https://i1.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2016/02/New-Burghley.jpg?zoom=2&fit=600%2C599&ssl=1" width="250" /> 
+            <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2016/02/burghley_embossed.jpg?zoom=2&fit=600%2C424&ssl=1" width="250" />
         </td>
         <td>
-            <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2016/02/stamford.jpg?fit=900%2C600&ssl=1" width="199" />
-            <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2016/02/burghley_embossed.jpg?zoom=2&fit=600%2C424&ssl=1" width="199" />
+            <ul>
+                <li>Customizable:</li>
+                    <ul>
+                        <li>different sizes</li>
+                        <li>colours</li>
+                        <li>page style: ruled, dot grid, plain, diary, artist's sketch</li>
+                        <li>embossing: from 4 to 30 characters, different colours, different positions</li>
+                    </ul>
+                <li>£57.20 – £71.50 + options</li>
+            </ul>
         </td>
     </tr>
 </table>
@@ -34,14 +37,12 @@
         <td>
             <ul>
                 <li>Customizable</li>
-                <li>
                     <ul>
                         <li>different sizes</li>
                         <li>cloth colour</li>
                         <li>page style: ruled, dot grid, plain, diary, artist's sketch</li>
                         <li>embossing: from 4 to 30 characters, different colours, different positions</li>
                     </ul>
-                </li>
                 <li>£16.50 – £25.50 + options</li>
             </ul>
         </td>
