@@ -11,7 +11,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [📓 📔 ✍️ ― AWESOME NOTEBOOKS ― ✍️ 📔 📓](#--%EF%B8%8F-%E2%80%95-awesome-notebooks-%E2%80%95-%EF%B8%8F--)
+
 - [Stamford: The Burghley Journal & Diary](#stamford-the-burghley-journal--diary)
 - [Stamford: The Woven Cloth Notebook & Diary](#stamford-the-woven-cloth-notebook--diary)
 - [Stamford: Soft Touch Stitched Notebooks and Diaries](#stamford-soft-touch-stitched-notebooks-and-diaries)
