@@ -46,13 +46,19 @@
         <td>
             <img src="https://i.imgur.com/uG7p2Ox.jpg" width="250"/>
         </td>
+        <td align="center">
+            <img src="https://i.imgur.com/i44HESB.jpg" width="145"/>
+        </td>
     </tr>
     <tr align="center">
         <td align="center"><a href="https://vanness1938.com/products/rhodia-soft-cover-rhodiarama-a6-black-notebook">Black</a></td>
         <td align="center"><a href="https://vanness1938.com/products/rhodia-soft-cover-rhodiarama-a6-chocolate-notebook">Chocolate</a></td> 
         <td align="center"><a href="https://vanness1938.com/products/rhodia-soft-cover-rhodiarama-a6-poppy-red-notebook">Poppy Red</a></td> 
+        <td align="center"><a href="https://vanness1938.com/products/rhodia-heritage-collection-tartan-80-sheet">Heritage Collection Tartan ($16.95)</a></td> 
     </tr>
 </table>
+
+
 
 
 
