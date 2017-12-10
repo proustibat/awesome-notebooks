@@ -168,10 +168,28 @@
 
 
 ## [DesignWorks Hard Cover "Le Petit" Journal](https://vanness1938.com/products/designworks-hard-cover-la-petit-journal-black)
-- Leatherette Cover | 160 Lined pages | Ribbon marker | Elastic Closure
-- 5.125" X 7.25"
-- $13.00
 
-<img src="https://i.imgur.com/APcVyIR.jpg" width="300"/>
+<table cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            <img src="https://i.imgur.com/APcVyIR.jpg" width="300"/>
+        </td>
+        <td valign="top">
+            <br/>
+            <ul>
+                <li>Leatherette Cover</li>
+                <li>160 Lined pages</li>
+                <li>Ribbon marker</li>
+                <li>Elastic Closure</li>
+                <li>5.125" X 7.25"</li>
+                <li>$13.00</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+
+
+
 
 
