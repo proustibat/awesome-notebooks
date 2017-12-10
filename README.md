@@ -158,18 +158,29 @@
 
 
 ## [DesignWorks Cloth Cover Journal- Burgundy "Acute Notebook"](https://vanness1938.com/products/designworks-cloth-cover-journal-burgundy-acute-notebook)
-- Cloth cover | 160 Lined pages | Ribbon marker
-- 5.125" x 7.25"
-- $12.00
-
-<img src="https://i.imgur.com/rb3L09E.jpg" width="300"/>
-
+<table>
+    <tr>
+        <td>
+            <img src="https://i.imgur.com/rb3L09E.jpg" width="300"/>
+        </td>
+        <td valign="top">
+            <br/>
+            <ul>
+                <li>Cloth cover</li>
+                <li>160 Lined pages</li>
+                <li>Ribbon marker</li>
+                <li>5.125" x 7.25"</li>
+                <li>$12.00</li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 
 
 ## [DesignWorks Hard Cover "Le Petit" Journal](https://vanness1938.com/products/designworks-hard-cover-la-petit-journal-black)
 
-<table cellspacing="0" cellpadding="0">
+<table>
     <tr>
         <td>
             <img src="https://i.imgur.com/APcVyIR.jpg" width="300"/>
@@ -187,9 +198,3 @@
         </td>
     </tr>
 </table>
-
-
-
-
-
-
