@@ -52,9 +52,8 @@
 
 
 # [Stamford: Soft Touch Stitched Notebooks and Diaries](https://www.stamfordnotebooks.co.uk/product/soft-touch-stitched-notebooks/)
-
 <table>
-    <tr>
+    <tr valign="top">
         <td width="345">
             <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2017/05/soft_onyx_red.jpg?zoom=2&fit=600%2C600&ssl=1" width="345" />
         </td>
@@ -78,41 +77,51 @@
 </table>
 
 
+
 # [Stamford: Stitched Leather Notebooks and Diaries](https://www.stamfordnotebooks.co.uk/product/stitched-leather-notebooks/)
-- Customizable: 
-    - different sizes
-    - leather colour
-    - stitched trim colour
-    - page style: ruled, dot grid, plain, diary, artist's sketch
-    - embossing: from 4 to 30 characters, different colours, different positions
-- £19.58 – £29.13 + options
-
-
-<table cellspacing="0" cellpadding="0">
-    <tr>
-        <td>
-            <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2017/05/recycled_black_red-2.jpg?w=600&ssl=1" width="500" />
+<table>
+    <tr valign="top">
+        <td width="345">
+            <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2017/05/recycled_black_red-2.jpg?w=600&ssl=1" width="345" />
         </td>
-        <td>
-            <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2017/05/red_recycled_yellow.jpg?fit=600%2C400&ssl=1" width="286" />
-            <img src="https://i0.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2017/05/red_recycled_yellow2.jpg?fit=600%2C400&ssl=1" width="286" />
+        <td width="260">
+            <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2017/05/red_recycled_yellow.jpg?fit=600%2C400&ssl=1" width="260" />
+            <img src="https://i0.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2017/05/red_recycled_yellow2.jpg?fit=600%2C400&ssl=1" width="260" />
+        </td>
+        <td width="280">
+            <ul>
+                <li>Customizable</li>
+                    <ul>
+                        <li>different sizes</li>
+                        <li>leather colour</li>
+                        <li>page style: ruled, dot grid, plain, diary, artist's sketch</li>
+                        <li>embossing: from 4 to 30 characters, different colours, different positions</li>
+                    </ul>
+                <li>£19.58 – £29.13 + options</li>
+            </ul>
         </td>
     </tr>
 </table>
 
 
 
-
-
-
 # [Waverley Scotland Tartan Cloth Commonplace Notebooks](https://www.waverley-books.co.uk/store/product/19_waverley-scotland-large-format-commonplace-notebooks/132_waverley-scotland-tartan-cloth-commonplace-notebooks-large-format--black-watch/)
-
-- Hardback notebooks | Elastic closure | Ribbon marker | Blank (left page) and lined (right page)
-- 192 pages | 80 gsm
-- 21 × 13 cm
-- £14.99 / $20.09 / €17.09
-    
-<img src="https://www.waverley-books.co.uk/products/416-zoom.jpg" width="300"/>
+<table>
+    <tr valign="top">
+        <td><img src="https://www.waverley-books.co.uk/products/416-zoom.jpg" width="300"/></td>
+        <td>
+            <ul>
+                <li>Hardback notebooks</li>
+                <li>Elastic closure</li>
+                <li>Ribbon marker</li>
+                <li>Blank (left page) and lined (right page)</li>
+                <li>192 pages | 80 gsm</li>
+                <li>21 × 13 cm</li>
+                <li>£14.99 / $20.09 / €17.09</li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 
 
