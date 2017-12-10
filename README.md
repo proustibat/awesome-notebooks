@@ -27,12 +27,34 @@
 <img src="https://i0.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2014/10/Linen.jpg?zoom=2&fit=581%2C581&ssl=1" width="350" />
 
 
+# [Stamford: Soft Touch Stitched Notebooks and Diaries](https://www.stamfordnotebooks.co.uk/product/soft-touch-stitched-notebooks/)
+- Customizable: 
+    - different sizes
+    - soft colour
+    - stitched trim colour
+    - page style: ruled, dot grid, plain, diary, artist's sketch
+    - embossing: from 4 to 30 characters, different colours, different positions
+- £17.92 – £25.42 + options
+
+
+<table cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2017/05/soft_onyx_red.jpg?zoom=2&fit=600%2C600&ssl=1" width="500" />
+        </td>
+        <td>
+            <img src="https://i0.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2017/05/onyx_soft_red.jpg?zoom=2&fit=600%2C400&ssl=1" width="286" />
+            <img src="https://i0.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2017/05/onyx_red_ribbon.jpg?fit=600%2C400&ssl=1" width="286" />
+        </td>
+    </tr>
+</table>
+
 
 # [Stamford: Stitched Leather Notebooks and Diaries](https://www.stamfordnotebooks.co.uk/product/stitched-leather-notebooks/)
 - Customizable: 
     - different sizes
     - leather colour
-    - stitch trim colour
+    - stitched trim colour
     - page style: ruled, dot grid, plain, diary, artist's sketch
     - embossing: from 4 to 30 characters, different colours, different positions
 - £19.58 – £29.13 + options
