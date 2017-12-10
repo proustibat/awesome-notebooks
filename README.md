@@ -6,7 +6,6 @@
     </tr>
 </table>
 
-------
 
 # [Stamford: The Burghley Journal & Diary](https://www.stamfordnotebooks.co.uk/product/burghley_journal/)
 <table>
