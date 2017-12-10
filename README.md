@@ -160,7 +160,7 @@
 
 # [Papier Notebooks](https://www.papier.com/stationery/notebooks/)
 <table>
-    <tr>
+    <tr valign="top">
         <td>
             <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/007/548/original/data?1474458339" width="115"/>
             <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/899/original/data?1479407078" width="115"/>
@@ -180,7 +180,7 @@
             </ul>
         </td>
     </tr>
-    <tr>
+    <tr valign="top">
         <td>
             <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/952/original/data?1479468916" width="115"/>
             <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/010/153/original/data?1472569973" width="115"/>
@@ -189,15 +189,17 @@
             <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/014/470/original/data?1480433135" width="115"/>
         </td>
     </tr>
-    <tr>
+    <tr valign="top">
         <td>
-            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/016/732/original/data?1503481569" width="120"/>
-            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/031/829/original/data?1511946075" width="120"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/016/732/original/data?1503481569" width="115"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/031/829/original/data?1511946075" width="115"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/014/996/original/data?1481644837" width="115"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/028/044/original/data?1505914128" width="115"/>
+            <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/006/532/original/data?1462898433" width="115"/>
         </td>
     </tr>
 </table>
 <a href="#table-of-contents">⬆️ Back to top</a>
-
 
 
 # [Vaness Incorporated](https://vanness1938.com/)
