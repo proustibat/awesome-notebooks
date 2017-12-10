@@ -29,8 +29,119 @@
 
 -------------------------------------------------------------------
 
+# [NUUNA NOTEBOOKS](https://www.nuuna.com/notebooks)
 
-# [NUUNA: Graphic Analog](https://www.nuuna.com/notebook-graphic-l-analog)
+## [NUUNA: VOYAGER](https://www.nuuna.com/notebook-voyager-m-black)
+<table>
+    <tr>
+        <td>
+            <img src="https://www.nuuna.com/media/image/product/394/md/53511_notebook-voyager-m-black.jpg" width="350" />
+        </td>
+        <td valign="top">
+            <ul>
+                <li>flexcover notebook</li>
+                <li>grey dot grid</li>
+                <li>cover: Smooth Bonded Leather</li>
+                <li>1,60 × 13,50 × 20,00 cm</li>
+                <li>120g</li>
+                <li>176 pages</li>
+                <li>22,90€</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<a href="#table-of-contents">⬆️ Back to top</a>
+
+
+## [NUUNA: HEAVEN](https://www.nuuna.com/notebook-heaven-m-black)
+<table>
+    <tr>
+        <td>
+            <img src="https://www.nuuna.com/media/image/product/148/md/50121_notebook-heaven-m-black.jpg" width="350" />
+        </td>
+        <td valign="top">
+            <ul>
+                <li>flexcover notebook</li>
+                <li>grey dot grid</li>
+                <li>cover: Smooth Bonded Leather</li>
+                <li>1,60 × 13,00 × 20,70 cm</li>
+                <li>120g</li>
+                <li>176 pages</li>
+                <li>17,90€</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<a href="#table-of-contents">⬆️ Back to top</a>
+
+
+## [NUUNA: GRAPHIC FAME THE HAPPY BOOK](https://www.nuuna.com/notebook-graphic-fame-l-the-happy-book)
+<table>
+    <tr>
+        <td>
+            <img src="https://www.nuuna.com/media/image/product/364/md/53375_notebook-graphic-fame-l-the-happy-book.jpg" width="350" />
+        </td>
+        <td valign="top">
+            <ul>
+                <li>flexcover notebook</li>
+                <li>grey dot grid</li>
+                <li>cover: Smooth Bonded Leather</li>
+                <li>2,10 × 16,50 × 22,00 cm</li>
+                <li>120g</li>
+                <li>256 pages</li>
+                <li>24,90€</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<a href="#table-of-contents">⬆️ Back to top</a>
+
+
+## [NUUNA: GRAPHIC DEEP THOUGHT](https://www.nuuna.com/notebook-graphic-l-deep-thought)
+<table>
+    <tr>
+        <td>
+            <img src="https://www.nuuna.com/media/image/product/349/md/53276_notebook-graphic-l-milky-way.jpg" width="350" />
+        </td>
+        <td valign="top">
+            <ul>
+                <li>flexcover notebook</li>
+                <li>grey dot grid</li>
+                <li>cover: Smooth Bonded Leather</li>
+                <li>2,10 × 16,50 × 22,00 cm</li>
+                <li>120g</li>
+                <li>256 pages</li>
+                <li>24,90€</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<a href="#table-of-contents">⬆️ Back to top</a>
+
+
+## [NUUNA: GRAPHIC MILKY WAY](https://www.nuuna.com/notebook-graphic-l-milky-way)
+<table>
+    <tr>
+        <td>
+            <img src="https://www.nuuna.com/media/image/product/349/md/53276_notebook-graphic-l-milky-way.jpg" width="350" />
+        </td>
+        <td valign="top">
+            <ul>
+                <li>flexcover notebook</li>
+                <li>grey dot grid</li>
+                <li>cover: Smooth Bonded Leather</li>
+                <li>2,10 × 16,50 × 22,00 cm</li>
+                <li>120g</li>
+                <li>256 pages</li>
+                <li>24,90€</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<a href="#table-of-contents">⬆️ Back to top</a>
+
+
+## [NUUNA: GRAPHIC ANALOG](https://www.nuuna.com/notebook-graphic-l-analog)
 <table>
     <tr>
         <td>
@@ -40,9 +151,12 @@
         <td valign="top" width="150">
             <ul>
                 <li>flexcover notebook</li>
+                <li>grey dot grid</li>
                 <li>cover: Smooth Bonded Leather</li>
+                <li>2,10 × 16,50 × 22,00 cm></li>
                 <li>120g</li>
                 <li>256 pages</li>
+                <li>24,90€</li>
             </ul>
         </td>
     </tr>
@@ -50,8 +164,7 @@
 <a href="#table-of-contents">⬆️ Back to top</a>
 
 
-
-# NUUNA: Graphic Traveller Nightflight Over Cities
+## NUUNA: GRAPHIC TRAVELLER NIGHTFLIGHT OVER
 <table>
     <tr align="center">
         <td><img src="https://www.nuuna.com/media/image/product/406/md/53702_notebook-graphic-traveller-lt-nightflight-over-paris-copper.jpg" width="300" /></td>
@@ -64,8 +177,8 @@
         <td><a href="https://www.nuuna.com/notebook-graphic-traveller-lt-nightflight-over-nyc-gold">NYC</a></td>
     </tr>
     <tr>
-        <td colspan="3" align="center" valign="middle">
-            L light: 1,60 × 16,50 × 22,00 cm - grey dot grid - 176 pages - 120g - 22,90€
+        <td colspan="3" align="left" valign="middle">
+            flexcover notebook - grey dot grid - cover: Smooth Bonded Leather -  1,60 × 16,50 × 22,00 cm - grey dot grid - 176 pages - 120g - 22,90€
         </td>
     </tr>
 </table>
