@@ -1,4 +1,4 @@
-# 📓 📔 ✍️ 🔆 ― AWESOME BOOKS ― 🔆 ✍️ 📔 📓
+# 📓 📔 ✍️ ― AWESOME BOOKS ― ✍️ 📔 📓
 
 
 ------
