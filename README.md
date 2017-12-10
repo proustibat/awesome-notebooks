@@ -24,14 +24,14 @@
 
 ## Vaness Incorporated
 
-### Rhodia Soft Cover Rhodiarama
-
-- Soft cover | Black | Lined or Dot | 
+### [Rhodia Soft Cover Rhodiarama A6](https://vanness1938.com/search?type=product&q=Rhodia+Soft+Cover+Rhodiarama+A6)
+- [Also in A5 ($19.95)](https://vanness1938.com/search?type=product&q=Rhodia+Soft+Cover+Rhodiarama+A5)
+- Soft cover | Black | Lined or Dot | Ribbon marker
 - 90 gram
 - A6: 3.5" x 5.5"
+- A5: 6 x 8 1/4
 - $14.95
-- [Different colors](https://vanness1938.com/search?type=product&q=Rhodia+Soft+Cover+Rhodiarama+A6)
-- [Also in A5 ($19.95)](https://vanness1938.com/search?type=product&q=Rhodia+Soft+Cover+Rhodiarama+A5)
+
 
 <table align="center">
     <tr>
