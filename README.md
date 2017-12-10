@@ -55,7 +55,7 @@
         </td>
     </tr>
 </table>
-<a href="https://github.com/proustibat/awesome-notebooks/#table-of-contents">⬆️ Back to top</a>
+<a href="#table-of-contents">⬆️ Back to top</a>
  
 
 
@@ -77,7 +77,7 @@
         </td>
     </tr>
 </table>
-<a href="https://github.com/proustibat/awesome-notebooks/#table-of-contents">⬆️ Back to top</a>
+<a href="#table-of-contents">⬆️ Back to top</a>
 
 
 
@@ -105,7 +105,7 @@
         </td>
     </tr>
 </table>
-<a href="https://github.com/proustibat/awesome-notebooks/#table-of-contents">⬆️ Back to top</a>
+<a href="#table-of-contents">⬆️ Back to top</a>
 
 
 
@@ -133,7 +133,7 @@
         </td>
     </tr>
 </table>
-<a href="https://github.com/proustibat/awesome-notebooks/#table-of-contents">⬆️ Back to top</a>
+<a href="#table-of-contents">⬆️ Back to top</a>
 
 
 
@@ -154,7 +154,7 @@
         </td>
     </tr>
 </table>
-<a href="https://github.com/proustibat/awesome-notebooks/#table-of-contents">⬆️ Back to top</a>
+<a href="#table-of-contents">⬆️ Back to top</a>
 
 
 
@@ -168,7 +168,7 @@
 
 <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/007/548/original/data?1474458339" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/899/original/data?1479407078" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/006/690/original/data?1461691547" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/027/328/original/data?1503408465" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/952/original/data?1479468916" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/010/153/original/data?1472569973" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/010/150/original/data?1470842475" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/639/original/data?1478802026" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/014/470/original/data?1480433135" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/013/362/original/data?1478259311" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/016/732/original/data?1503481569" width="140"/> <img src="https://d1o785do8fyxgx.cloudfront.net/designable_sheets/previews/000/031/829/original/data?1511946075" width="140"/>
 
-<a href="https://github.com/proustibat/awesome-notebooks/#table-of-contents">⬆️ Back to top</a>
+<a href="#table-of-contents">⬆️ Back to top</a>
 
 
 
@@ -213,7 +213,7 @@
         <td align="center"><a href="https://vanness1938.com/products/rhodia-heritage-collection-tartan-80-sheet">Heritage Collection Tartan ($16.95)</a></td> 
     </tr>
 </table>
-<a href="https://github.com/proustibat/awesome-notebooks/#table-of-contents">⬆️ Back to top</a>
+<a href="#table-of-contents">⬆️ Back to top</a>
 
 
 
@@ -234,7 +234,7 @@
         </td>
     </tr>
 </table>
-<a href="https://github.com/proustibat/awesome-notebooks/#table-of-contents">⬆️ Back to top</a>
+<a href="#table-of-contents">⬆️ Back to top</a>
 
 
 
@@ -256,7 +256,7 @@
         </td>
     </tr>
 </table>
-<a href="https://github.com/proustibat/awesome-notebooks/#table-of-contents">⬆️ Back to top</a>
+<a href="#table-of-contents">⬆️ Back to top</a>
 
 
 
@@ -279,4 +279,4 @@
         </td>
     </tr>
 </table>
-<a href="https://github.com/proustibat/awesome-notebooks/#table-of-contents">⬆️ Back to top</a>
+<a href="#table-of-contents">⬆️ Back to top</a>
