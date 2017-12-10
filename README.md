@@ -116,32 +116,40 @@
 # [Vaness Incorporated](https://vanness1938.com/)
 
 ## [Rhodia Soft Cover Rhodiarama A6](https://vanness1938.com/search?type=product&q=Rhodia+Soft+Cover+Rhodiarama+A6)
-- [Also in A5 ($19.95)](https://vanness1938.com/search?type=product&q=Rhodia+Soft+Cover+Rhodiarama+A5)
-- Soft cover | Black | Lined or Dot | Ribbon marker
-- 90 gram
-- A6: 3.5" x 5.5"
-- A5: 6 x 8 1/4
-- $14.95
-
-
 <table>
-    <tr>
+    <tr valign="top" align="center">
         <td>
-            <img src="https://i.imgur.com/EbcYJH9.jpg" width="250"/>
+            <img src="https://i.imgur.com/EbcYJH9.jpg" width="150"/>
         </td>
         <td>
-            <img src="https://i.imgur.com/BO1jzyD.jpg" width="250"/>
+            <img src="https://i.imgur.com/BO1jzyD.jpg" width="150"/>
         </td>
-        <td>
-            <img src="https://i.imgur.com/uG7p2Ox.jpg" width="250"/>
-        </td>
-        <td align="center">
-            <img src="https://i.imgur.com/i44HESB.jpg" width="145"/>
+        <td rowspan="4" align="left">
+            <ul>
+                <li>Soft cover</li>
+                <li>Ribbon marker</li>
+                <li>Lined or Dot</li>
+                <li>0 gram</li>
+                <li>A6: 3.5" x 5.5"</li>
+                <li>A5: 6 x 8 1/4</li>
+                <li>$14.95</li>
+                <li><a href="https://vanness1938.com/search?type=product&q=Rhodia+Soft+Cover+Rhodiarama+A5">Also in A5 ($19.95)</a></li>
+            </ul>
         </td>
     </tr>
     <tr align="center">
         <td align="center"><a href="https://vanness1938.com/products/rhodia-soft-cover-rhodiarama-a6-black-notebook">Black</a></td>
         <td align="center"><a href="https://vanness1938.com/products/rhodia-soft-cover-rhodiarama-a6-chocolate-notebook">Chocolate</a></td> 
+    </tr>
+    <tr align="center">
+        <td>
+            <img src="https://i.imgur.com/uG7p2Ox.jpg" width="150"/>
+        </td>
+        <td align="center">
+            <img src="https://i.imgur.com/i44HESB.jpg" width="120"/>
+        </td>
+    </tr>
+    <tr align="center">
         <td align="center"><a href="https://vanness1938.com/products/rhodia-soft-cover-rhodiarama-a6-poppy-red-notebook">Poppy Red</a></td> 
         <td align="center"><a href="https://vanness1938.com/products/rhodia-heritage-collection-tartan-80-sheet">Heritage Collection Tartan ($16.95)</a></td> 
     </tr>
