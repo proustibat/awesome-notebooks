@@ -2,6 +2,19 @@
 
 ------
 
+# [Stamford: The Burghley Journal & Diary](https://www.stamfordnotebooks.co.uk/product/burghley_journal/)
+- Customizable: 
+    - different sizes
+    - colour
+    - page style: ruled, dot grid, plain, diary, artist's sketch
+    - embossing: from 4 to 30 characters, different colours, different positions
+- £57.20 – £71.50 + options
+
+<img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2016/02/dark_brown.jpg?zoom=2&fit=600%2C598&ssl=1" width="300" /> <img src="https://i1.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2016/02/New-Burghley.jpg?zoom=2&fit=600%2C599&ssl=1" width="300" /> 
+<img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2016/02/stamford.jpg?fit=900%2C600&ssl=1" width="265" /> <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2016/02/burghley_embossed.jpg?zoom=2&fit=600%2C424&ssl=1" width="250" />
+
+
+
 
 # [Stamford: The Woven Cloth Notebook & Diary](https://www.stamfordnotebooks.co.uk/product/woven-cloth-notebook/)
 - Customizable: 
