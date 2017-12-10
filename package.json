@@ -1,0 +1,23 @@
+{
+  "name": "awesome-notebooks",
+  "version": "1.0.0",
+  "description": "<table>     <tr align=\"center\">         <td  width=\"1000\">             <h1>📓 📔 ✍️ ― AWESOME NOTEBOOKS ― ✍️ 📔 📓</h1>         </td>     </tr> </table>",
+  "main": "index.js",
+  "scripts": {
+    "toc": "doctoc README.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proustibat/awesome-notebooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proustibat/awesome-notebooks/issues"
+  },
+  "homepage": "https://github.com/proustibat/awesome-notebooks#readme",
+  "devDependencies": {
+    "doctoc": "^1.3.0"
+  }
+}
