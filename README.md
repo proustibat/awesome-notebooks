@@ -50,6 +50,7 @@
                 <li>192 pages | 80 gsm</li>
                 <li>21 × 13 cm</li>
                 <li>£14.99 / $20.09 / €17.09</li>
+                <li>$14.87 on <a href="https://www.amazon.com/Black-Watch-Commonplace-Notebooks-stationery/dp/1849344086/">Amazon</a></li>
             </ul>
         </td>
     </tr>
