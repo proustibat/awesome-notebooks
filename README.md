@@ -2,6 +2,32 @@
 
 ------
 
+# [Stamford: Stitched Leather Notebooks and Diaries](https://www.stamfordnotebooks.co.uk/product/stitched-leather-notebooks/)
+- Customizable: 
+    - different sizes
+    - leather colour
+    - stitch trim colour
+    - page style: ruled, dot grid, plain, diary, artist's sketch
+    - embossing: from 4 to 30 characters, different colours, different positions
+- £19.58 – £29.13 + options
+
+
+<table cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2017/05/recycled_black_red-2.jpg?w=600&ssl=1" width="500" />
+        </td>
+        <td>
+            <img src="https://i2.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2017/05/red_recycled_yellow.jpg?fit=600%2C400&ssl=1" width="286" />
+            <img src="https://i0.wp.com/www.stamfordnotebooks.co.uk/wp-content/uploads/2017/05/red_recycled_yellow2.jpg?fit=600%2C400&ssl=1" width="286" />
+        </td>
+    </tr>
+</table>
+
+
+
+
+
 
 # [Waverley Scotland Tartan Cloth Commonplace Notebooks](https://www.waverley-books.co.uk/store/product/19_waverley-scotland-large-format-commonplace-notebooks/132_waverley-scotland-tartan-cloth-commonplace-notebooks-large-format--black-watch/)
 
@@ -35,7 +61,7 @@
 - $14.95
 
 
-<table align="center">
+<table>
     <tr>
         <td>
             <img src="https://i.imgur.com/EbcYJH9.jpg" width="250"/>
